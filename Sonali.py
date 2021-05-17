@@ -1,8 +1,8 @@
 # finding the area
 import math
-r=input("radius of the circle=")
-Area=math.pi*r*r
-Print(Area)
+r=float(input("radius of the circle="))
+area=math.pi*r*r
+print(area)
 
 #print extension of file
 
